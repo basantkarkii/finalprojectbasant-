@@ -4,7 +4,7 @@
 
 Basant Todo is an android software that allows users to add their normal daily activities. Enable the specifics of the Task to be prioritize, changed and removed.
 
-Graphics Interchange Format Walkthrough:
+***Graphics Interchange Format(GIF) Walkthrough***:
 
 ![](create.gif)
 
@@ -31,32 +31,39 @@ above GIF shows how to update previous TO-DOs from the list.
 above GIF shows how to delete the TO-DO from the list.
 
 
-**Functionalites and Features**
+**Functionalites and Features:**
 
 1. User can add TO-DO in the list.
 2. User can priotize the TO-DO.
 3. user can tap on TO-DO to update them.
 4. User can swipe the TO-DO from the list to delete them.
 
-**Framework Used**
+**Framework Used:**
 
 Model–view–viewmodel (MVVM) is one of the architectural patterns which enhances separation of concerns, it allows separating the user interface logic from the business (or the back-end) logic. Its target (with other MVC patterns goal) is to achieve the following principle “Keeping UI code simple and free of app logic in order to make it easier to manage”.
 
-**Used Components**
+**Used Components:**
 
 MVVM framework
+
 Adapters
+
 Fragments
+
 View Pagers
 
-**Prerequisties**
+**Prerequisties:**
 
 Android Studio (IDE)
+
 Android SDK v28
 
-**Libraries Used**
+**Libraries Used:**
+
 LiveData
+
 ViewModel
+
 Room
 
 **License**
