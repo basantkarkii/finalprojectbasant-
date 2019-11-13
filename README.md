@@ -9,7 +9,7 @@ Graphics Interchange Format Walkthrough:
 
 above GIF shows how to create the TO-DO in basant todo applicatio.
 
-![](type your todo.gif)
+![](type_your_todo.gif)
 
 above GIF shows the text area in basant todo application where user can describe their TODO.
 
