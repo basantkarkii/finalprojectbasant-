@@ -9,7 +9,7 @@ Graphics Interchange Format Walkthrough:
 
 above GIF shows how to create the TO-DO in basant todo applicatio.
 
-![](type.gif)
+![](type your todo.gif)
 
 above GIF shows the text area in basant todo application where user can describe their TODO.
 
@@ -22,6 +22,7 @@ above GIF shows how to set the priority of the TO-DO added by user.
 above GIF shows how to add the TO-DO in the list.
 
 ![](update.gif)
+
 above GIF shows how to update previous TO-DOs from the list.
 
 ![](delete.gif)
